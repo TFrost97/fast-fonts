@@ -13,7 +13,7 @@ import { createGlobalStyle } from "styled-components"
 import Header from "./header"
 
 const GlobalStyle = createGlobalStyle`
-  @import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700');
+  /* @import url('https://fonts.googleapis.com/css?family=Open+Sans|Playfair+Display:400,700'); */
 
   * {
     box-sizing: border-box;
